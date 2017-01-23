@@ -1,0 +1,28 @@
+
+#upsellvideo_mask{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background-color: #000000;
+  opacity: 0.4;
+  display:none;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#upsellvideo_close-modal{
+  top: 40px;
+  right: 40px;
+  font-size: 35px;
+  color: #FFFFFF;
+  position: absolute;
+}
+
+#upsellvideo_wrapper{ 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+}
