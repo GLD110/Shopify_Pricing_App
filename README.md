@@ -31,4 +31,4 @@ Customer Pricing Shopify Private App
 7. Access the Short URL Management
 	You can click "Short URL" on the Top menu.
 	
-****---- Alex ----****
+****---- GLD ----****
