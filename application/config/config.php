@@ -383,8 +383,8 @@ $config['clean_days'] = '15';
 
 // APP Configuration
 $config['APP_NAME'] = 'Customer-Pricing';
-$config['APP_CLIENT_ID'] = '03de31e204a5ee9f4475b3dfec919ab8';          // API KEY
-$config['APP_CLIENT_SECRET'] = 'c6ac35c8effb338558e4db6bd4a2f958';      // Credential
+$config['APP_CLIENT_ID'] = '60994f591856605015c21a53f010e5e4';          // API KEY
+$config['APP_CLIENT_SECRET'] = 'f6c9a35274c8fdbfa8e550da8058e36b';      // Credential
 $config['APP_SCOPE'] = 'read_products,write_products,read_orders,write_orders,read_fulfillments,write_fulfillments,read_shipping,write_shipping';
 
 $config['API_AUTH_URL'] = '/admin/oauth/authorize';
@@ -397,8 +397,8 @@ $config['APP_STATE'] = md5( $config['APP_REDIRECT_URL'] . $config['APP_NAME'] );
 // Private Mode
 $config['PUBLIC_MODE'] = false;
 $config['USE_REDIRECT'] = true;
-$config['PRIVATE_SHOP'] = 'anton655.myshopify.com';
-$config['PRIVATE_API_URL'] = 'https://de250765f3fedb7f0a48008eb1b69c3d:f9af15f276538ec4a699f2748befeef3@anton655.myshopify.com/admin/';   //My Shop
+$config['PRIVATE_SHOP'] = 'diana4545.myshopify.com';
+$config['PRIVATE_API_URL'] = 'https://b7513b8d1e9c632dbd0391ea7a1b2384:d05a5a2cf72cb992051ac0cf09cdafef@diana4545.myshopify.com/admin/';   //My Shop
 //$config['PRIVATE_API_URL'] = 'https://1140b7a0dd59723386ab80847fda31dd:a7dea5fa0281bb2bea4aecfc8b02d73f@wellness-cover.myshopify.com/admin/';  // Online Shop
 
 // Constants
